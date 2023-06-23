@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "userId": [],
+      "id": "Allaiar",
+      "name": "Radzhapov Allaiar",
+      "password": "Nazira647",
+      "email": "radzhapov.allayar@gmail.com",
+      "phone": "+996990200225",
+      "country": "Киргизия",
+      "address": "Ильменская 55",
+      "gender": "male"
+    }
+  ]
+}
